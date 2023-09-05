@@ -4,7 +4,7 @@ Welcome to the Pico y Placa Predictor App! This application allows you to predic
 
 ## Demo
 
-You can try out the Pico y Placa Predictor App [here](https://picoyplaca-predictor.netlify.app/).
+You can try out the Pico y Placa Predictor App [here](https://pico-placa-predictor.netlify.app/).
 
 ## Technologies
 
